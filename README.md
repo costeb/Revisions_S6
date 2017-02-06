@@ -13,12 +13,14 @@ Un Grand Cru réalisé avec les meilleurs ingrédients :
   :arrow_right: [Page Moodle](https://im2ag-moodle.e.ujf-grenoble.fr/course/view.php?id=258)
 
 Contient :
-* Cours
-* TD
+* APNÉEs
 * Annales
+* Cours
+* TDs
+* TPs
 
 *Toujours à consommer sans modération !*
 
 ***
 
-**ATTENTION :** réviser ne vous assure pas une réussite à votre semestre. *Les Petits Pédestres* déclinent toute responsabilité en cas de non-admission.
+**AVERTISSEMENT :** réviser ne vous assure pas une réussite à votre semestre. *Les Petits Pédestres* déclinent toute responsabilité en cas de non-admission.  
