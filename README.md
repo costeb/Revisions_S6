@@ -24,3 +24,9 @@ Contient :
 ***
 
 **AVERTISSEMENT :** réviser ne vous assure pas une réussite à votre semestre. *Les Petits Pédestres* déclinent toute responsabilité en cas de non-admission.  
+
+***
+
+## Contributions
+
+Les contributeurs externes sont les **bienvenus** ! Vous pouvez **forker** ce dépôt puis créer une nouvelle [**pull request**](https://github.com/lespetitspedestres/Revisions_S6/compare), ou bien ouvrir une nouvelle [**issue**](https://github.com/lespetitspedestres/Revisions_S6/issues/new) pour nous demander de vous ajouter dans la team des contributeurs.
