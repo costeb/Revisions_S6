@@ -12,9 +12,9 @@ Un Grand Cru réalisé avec les meilleurs ingrédients :
 * SR  
   :arrow_right: [Page Moodle](https://im2ag-moodle.e.ujf-grenoble.fr/course/view.php?id=258)
 * IA  
-  :arrow_right [Page officielle](http://ama.liglab.fr/~amini/Cours/L3/)
+  :arrow_right: [Page officielle](http://ama.liglab.fr/~amini/Cours/L3/)
 * TI  
-  :arrow_right [Page_officielle](http://www-ljk.imag.fr/membres/Nicolas.Szafran/ENSEIGNEMENT/L3/index.html)
+  :arrow_right: [Page_officielle](http://www-ljk.imag.fr/membres/Nicolas.Szafran/ENSEIGNEMENT/L3/index.html)
 
 Contient :
 * APNÉEs
