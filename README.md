@@ -11,9 +11,9 @@ Un Grand Cru réalisé avec les meilleurs ingrédients :
   :arrow_right: [Page officielle](http://inf362.forge.imag.fr/) :wavy_dash: [Page Moodle](https://im2ag-moodle.e.ujf-grenoble.fr/course/view.php?id=136)
 * SR  
   :arrow_right: [Page Moodle](https://im2ag-moodle.e.ujf-grenoble.fr/course/view.php?id=258)
-* IA
+* IA  
   :arrow_right [Page officielle](http://ama.liglab.fr/~amini/Cours/L3/)
-* TI
+* TI  
   :arrow_right [Page_officielle](http://www-ljk.imag.fr/membres/Nicolas.Szafran/ENSEIGNEMENT/L3/index.html)
 
 Contient :
